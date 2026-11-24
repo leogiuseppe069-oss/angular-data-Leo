@@ -9,7 +9,7 @@ import { Component } from '@angular/core';
 export class UserItem {
     name: string;          
   constructor() {
-    this.name = 'felipe';
+    this.name = 'Felipe';
     
   }
 }
